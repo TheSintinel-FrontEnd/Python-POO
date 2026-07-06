@@ -10,7 +10,7 @@ class Personsa:
 
     def mostrarDatos(self):
 
-        print (f"El estufiante {self.nombre} tiene {self.edad} años")
+        print (f"El estudiante {self.nombre} tiene {self.edad} años")
 
 
 nombre = input("Digite el nombre del alumno: ")
