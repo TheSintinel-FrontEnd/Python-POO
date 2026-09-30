@@ -1,0 +1,1 @@
+a = input("Digite un numero: "); b = input ("Digite otro numero: ") ; num1 = int(a) ; num2 = int(b) ; suma = num1 + num2; print(f"La suma entre los dos numero es {suma}")

@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Afredo
+Apellido: Patiño
+-----------
+Nombre: Seba
+Apellido: Correa
+-----------
+Nombre: Agustin
+Apellido: Correa
+-----------
+Nombre: Ariel
+Apellido: Correa
+-----------
+Nombre: Jeronimo
+Apellido: Aguero
+-----------

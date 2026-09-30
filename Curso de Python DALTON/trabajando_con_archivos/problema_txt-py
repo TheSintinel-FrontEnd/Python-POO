@@ -1,0 +1,13 @@
+#2 litas, 1 con nombres y otro con apellidos
+
+nombre = ["Afredo","Seba","Agustin","Ariel","Jeronimo"]
+
+apellidos= ["Patiño","Correa","Correa","Correa","Aguero"]
+
+#Registrar los datos en un txt de forma optima
+
+with open("trabajando_con_archivos\\nombre_y_apellidos.txt","w",encoding="UTF-8") as archi:  
+    
+    archi.writelines("Los datos son: \n\n")
+    
+    [archi.writelines(f"Nombre: {n}\nApellido: {a}\n-----------\n") for n,a in zip(nombre,apellidos)]
