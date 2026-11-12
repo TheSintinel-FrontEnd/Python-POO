@@ -1,1 +1,3 @@
-Para el profe Cadamuru <3
+Para el profe Cadamuro <3
+
+** No me gusta Python **
